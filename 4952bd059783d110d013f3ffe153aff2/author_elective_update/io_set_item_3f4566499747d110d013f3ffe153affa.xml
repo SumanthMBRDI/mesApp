@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="Assests Available For Students">9425aa099747d110d013f3ffe153af49</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 09:38:45</sys_created_on>
+        <sys_id>3f4566499747d110d013f3ffe153affa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Assest forms.Assests Available For Students</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_update_name>io_set_item_3f4566499747d110d013f3ffe153affa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 09:38:45</sys_updated_on>
+        <variable_set display_value="Assest forms">f4c366859747d110d013f3ffe153afeb</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</application>
+        <file_path/>
+        <instance_id>eb6f104bdb89091031363feb6896196a</instance_id>
+        <instance_name>dev121885</instance_name>
+        <name>io_set_item_3f4566499747d110d013f3ffe153affa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="Assests Available For Students">9425aa099747d110d013f3ffe153af49</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-07 09:38:45</sys_created_on><sys_id>3f4566499747d110d013f3ffe153affa</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Assest forms.Assests Available For Students</sys_name><sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package><sys_policy/><sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope><sys_update_name>io_set_item_3f4566499747d110d013f3ffe153affa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-07 09:38:45</sys_updated_on><variable_set display_value="Assest forms">f4c366859747d110d013f3ffe153afeb</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>-288889551</payload_hash>
+        <record_name>Assest forms.Assests Available For Students</record_name>
+        <reverted_from/>
+        <source>0552bd059783d110d013f3ffe153aff4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 09:38:45</sys_created_on>
+        <sys_id>7f45a6499747d110d013f3ffe153af02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1845174e3480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 09:38:45</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>b745a6491747d110929dd0387e351602</update_guid>
+        <update_guid_history>b745a6491747d110929dd0387e351602:-288889551</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Assest forms.Assests Available For Students">0b56a6899747d110d013f3ffe153af7c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 09:43:21</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>04464f7590f84bc780ee04b9b07b5541</sys_id>
+        <sys_metadata>3f4566499747d110d013f3ffe153affa</sys_metadata>
+        <sys_name>Assest forms.Assests Available For Students</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_scope_delete display_value="">02e6c0479b8e46a08159d91115c50400</sys_scope_delete>
+        <sys_update_name>io_set_item_3f4566499747d110d013f3ffe153affa</sys_update_name>
+        <sys_update_version display_value="io_set_item_3f4566499747d110d013f3ffe153affa">7f45a6499747d110d013f3ffe153af02</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

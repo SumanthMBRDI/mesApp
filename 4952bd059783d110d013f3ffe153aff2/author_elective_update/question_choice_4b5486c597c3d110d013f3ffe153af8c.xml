@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Select the Accessories">69a2ce4597c3d110d013f3ffe153afb6</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:15:08</sys_created_on>
+        <sys_id>4b5486c597c3d110d013f3ffe153af8c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Navex</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_update_name>question_choice_4b5486c597c3d110d013f3ffe153af8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 07:15:27</sys_updated_on>
+        <text>Navex</text>
+        <value>2</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=4b5486c597c3d110d013f3ffe153af8c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</application>
+        <file_path/>
+        <instance_id>eb6f104bdb89091031363feb6896196a</instance_id>
+        <instance_name>dev121885</instance_name>
+        <name>question_choice_4b5486c597c3d110d013f3ffe153af8c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>200</order><published_ref/><question display_value="Select the Accessories">69a2ce4597c3d110d013f3ffe153afb6</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-07 07:15:08</sys_created_on><sys_id>4b5486c597c3d110d013f3ffe153af8c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Navex</sys_name><sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package><sys_policy/><sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope><sys_update_name>question_choice_4b5486c597c3d110d013f3ffe153af8c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-07 07:15:27</sys_updated_on><text>Navex</text><value>2</value></question_choice><fx_price action="delete_multiple" query="id=4b5486c597c3d110d013f3ffe153af8c"/></record_update>]]></payload>
+        <payload_hash>1018870173</payload_hash>
+        <record_name>Navex</record_name>
+        <reverted_from/>
+        <source>0552bd059783d110d013f3ffe153aff4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:15:27</sys_created_on>
+        <sys_id>e0844ec597c3d110d013f3ffe153afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18450f1b03e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 07:15:27</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>2c844ec5a0c3d1107f8cd4b9872814b1</update_guid>
+        <update_guid_history>2c844ec5a0c3d1107f8cd4b9872814b1:1018870173,44740ec51bc3d110f349f5217296a5e4:1433917758</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Navex">dd51a6459747d110d013f3ffe153afa5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 09:21:22</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>05ed1af2f8164740844b13517455ca40</sys_id>
+        <sys_metadata>4b5486c597c3d110d013f3ffe153af8c</sys_metadata>
+        <sys_name>Navex</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_scope_delete display_value="">02e6c0479b8e46a08159d91115c50400</sys_scope_delete>
+        <sys_update_name>question_choice_4b5486c597c3d110d013f3ffe153af8c</sys_update_name>
+        <sys_update_version display_value="question_choice_4b5486c597c3d110d013f3ffe153af8c">e0844ec597c3d110d013f3ffe153afb2</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

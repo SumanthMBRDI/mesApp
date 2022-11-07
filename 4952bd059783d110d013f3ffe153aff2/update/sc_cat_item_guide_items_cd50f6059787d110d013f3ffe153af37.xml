@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
+        <condition>IO:88e3eec59747d110d013f3ffe153afba=1^ORIO:88e3eec59747d110d013f3ffe153afba=2^EQ</condition>
+        <guide display_value="Assests Available For Students">a039c60d97c3d110d013f3ffe153af51</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Developer Laptop (Mac)">774906834fbb4200086eeed18110c737</item>
+        <order>100</order>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 10:28:44</sys_created_on>
+        <sys_id>cd50f6059787d110d013f3ffe153af37</sys_id>
+        <sys_name>774906834fbb4200086eeed18110c737</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_cd50f6059787d110d013f3ffe153af37</sys_update_name>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+</record_update>

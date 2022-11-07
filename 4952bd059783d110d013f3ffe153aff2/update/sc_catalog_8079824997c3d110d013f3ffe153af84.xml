@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description>Here Assests are available Here</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:37:26</sys_created_on>
+        <sys_id>8079824997c3d110d013f3ffe153af84</sys_id>
+        <sys_name>Assest Centre</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_update_name>sc_catalog_8079824997c3d110d013f3ffe153af84</sys_update_name>
+        <title>Assest Centre</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=8079824997c3d110d013f3ffe153af84"/>
+</record_update>

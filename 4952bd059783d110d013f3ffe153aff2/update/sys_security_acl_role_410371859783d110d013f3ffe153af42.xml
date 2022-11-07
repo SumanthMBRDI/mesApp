@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 05:59:01</sys_created_on>
+        <sys_id>410371859783d110d013f3ffe153af42</sys_id>
+        <sys_name>x_929106_mescolleg_teachers.x_929106_mescolleg.teachers_user</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_security_acl display_value="x_929106_mescolleg_teachers">490371859783d110d013f3ffe153af3f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_410371859783d110d013f3ffe153af42</sys_update_name>
+        <sys_user_role display_value="x_929106_mescolleg.teachers_user" name="x_929106_mescolleg.teachers_user">70037d459783d110d013f3ffe153afed</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

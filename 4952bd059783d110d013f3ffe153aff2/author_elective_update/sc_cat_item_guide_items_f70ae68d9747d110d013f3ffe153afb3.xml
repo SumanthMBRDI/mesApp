@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="DELETE">
+        <condition>IO:88e3eec59747d110d013f3ffe153afba=4^ORIO:88e3eec59747d110d013f3ffe153afba=3^EQ</condition>
+        <guide display_value="Assests Available For Teachers">9425aa099747d110d013f3ffe153af49</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Apple iPhone 13">ec80c13297968d1021983d1e6253af32</item>
+        <order>4</order>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 09:59:57</sys_created_on>
+        <sys_id>f70ae68d9747d110d013f3ffe153afb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ec80c13297968d1021983d1e6253af32</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_f70ae68d9747d110d013f3ffe153afb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 09:59:57</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</application>
+        <file_path/>
+        <instance_id>eb6f104bdb89091031363feb6896196a</instance_id>
+        <instance_name>dev121885</instance_name>
+        <name>sc_cat_item_guide_items_f70ae68d9747d110d013f3ffe153afb3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_guide_items"><sc_cat_item_guide_items action="INSERT_OR_UPDATE"><condition>IO:88e3eec59747d110d013f3ffe153afba=4^ORIO:88e3eec59747d110d013f3ffe153afba=3^EQ</condition><guide display_value="Assests Available For Teachers">9425aa099747d110d013f3ffe153af49</guide><ignore_mandatory_eval>false</ignore_mandatory_eval><item display_value="Apple iPhone 13">ec80c13297968d1021983d1e6253af32</item><order>4</order><quantity>1</quantity><requested_by/><requested_for/><show_quantity>false</show_quantity><sys_class_name>sc_cat_item_guide_items</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-07 09:59:57</sys_created_on><sys_id>f70ae68d9747d110d013f3ffe153afb3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ec80c13297968d1021983d1e6253af32</sys_name><sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package><sys_policy/><sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope><sys_update_name>sc_cat_item_guide_items_f70ae68d9747d110d013f3ffe153afb3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-07 09:59:57</sys_updated_on><use_sc_layout>true</use_sc_layout></sc_cat_item_guide_items></record_update>]]></payload>
+        <payload_hash>99863041</payload_hash>
+        <record_name>ec80c13297968d1021983d1e6253af32</record_name>
+        <reverted_from/>
+        <source>0552bd059783d110d013f3ffe153aff4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 09:59:57</sys_created_on>
+        <sys_id>1e2aee4d9747d110d013f3ffe153af93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18451884aa70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 09:59:57</sys_updated_on>
+        <type>Rule</type>
+        <update_guid>562aee4daf47d1108baa073b2873b793</update_guid>
+        <update_guid_history>562aee4daf47d1108baa073b2873b793:99863041</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Apple iPhone 13">216cae019787d110d013f3ffe153afc7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 10:09:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_guide_items">sc_cat_item_guide_items</sys_db_object>
+        <sys_id>076f942f8b8c48308131cf4e69ec3344</sys_id>
+        <sys_metadata>f70ae68d9747d110d013f3ffe153afb3</sys_metadata>
+        <sys_name>ec80c13297968d1021983d1e6253af32</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_scope_delete display_value="">02e6c0479b8e46a08159d91115c50400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_guide_items_f70ae68d9747d110d013f3ffe153afb3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_guide_items_f70ae68d9747d110d013f3ffe153afb3">1e2aee4d9747d110d013f3ffe153af93</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

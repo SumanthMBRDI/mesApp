@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Assests Available For Teachers">9425aa099747d110d013f3ffe153af49</sc_cat_item>
+        <sc_category display_value="Teachers">9da9ce0d97c3d110d013f3ffe153af11</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 09:38:20</sys_created_on>
+        <sys_id>353526499747d110d013f3ffe153af4d</sys_id>
+        <sys_name>Teachers.Assests Available For Students</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_update_name>sc_cat_item_category_353526499747d110d013f3ffe153af4d</sys_update_name>
+    </sc_cat_item_category>
+</record_update>

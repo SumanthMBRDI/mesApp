@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1f9d31cd9783d110d013f3ffe153aff1" label="Teacher Section" max_length="40" name="x_929106_mescolleg_teacher_section" type="collection">
+        <element choice="1" label="city" max_length="40" name="city" type="choice">
+            <choice/>
+        </element>
+        <element label="Date of joined" max_length="40" name="date_of_joined" type="glide_date"/>
+        <element choice="1" label="department" max_length="40" name="department" type="choice">
+            <choice/>
+        </element>
+        <element label="phoneNumber" max_length="40" name="phonenumber" type="phone_number_e164"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice/>
+        </element>
+        <element label="teacher ID" max_length="40" name="teacher_id" type="string"/>
+        <element label="Teacher Name" max_length="32" name="teacher_name" reference="x_929106_mescolleg_teachers" type="reference"/>
+        <index name="index">
+            <element name="teacher_name"/>
+        </index>
+    </element>
+</database>

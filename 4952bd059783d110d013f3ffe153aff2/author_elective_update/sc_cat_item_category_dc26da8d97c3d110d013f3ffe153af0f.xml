@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Assests">0a1616499707d110d013f3ffe153afd3</sc_cat_item>
+        <sc_category display_value="Student">48c9c60d97c3d110d013f3ffe153af56</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 08:32:26</sys_created_on>
+        <sys_id>dc26da8d97c3d110d013f3ffe153af0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student.Assests</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_update_name>sc_cat_item_category_dc26da8d97c3d110d013f3ffe153af0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 08:32:26</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</application>
+        <file_path/>
+        <instance_id>eb6f104bdb89091031363feb6896196a</instance_id>
+        <instance_name>dev121885</instance_name>
+        <name>sc_cat_item_category_dc26da8d97c3d110d013f3ffe153af0f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Assests">0a1616499707d110d013f3ffe153afd3</sc_cat_item><sc_category display_value="Student">48c9c60d97c3d110d013f3ffe153af56</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-07 08:32:26</sys_created_on><sys_id>dc26da8d97c3d110d013f3ffe153af0f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Student.Assests</sys_name><sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package><sys_policy/><sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope><sys_update_name>sc_cat_item_category_dc26da8d97c3d110d013f3ffe153af0f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-07 08:32:26</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>737730489</payload_hash>
+        <record_name>Student.Assests</record_name>
+        <reverted_from/>
+        <source>0552bd059783d110d013f3ffe153aff4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 08:32:26</sys_created_on>
+        <sys_id>d42656499707d110d013f3ffe153af43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18451382b0b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 08:32:26</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>102656495807d1107f9ab3ca3ff66943</update_guid>
+        <update_guid_history>102656495807d1107f9ab3ca3ff66943:737730489</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Student.Assests">e57cdecd9707d110d013f3ffe153af2a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 09:00:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2f1ed2da58fe43928248296bd59c6a44</sys_id>
+        <sys_metadata>dc26da8d97c3d110d013f3ffe153af0f</sys_metadata>
+        <sys_name>Student.Assests</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_scope_delete display_value="">02e6c0479b8e46a08159d91115c50400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_dc26da8d97c3d110d013f3ffe153af0f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_dc26da8d97c3d110d013f3ffe153af0f">d42656499707d110d013f3ffe153af43</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

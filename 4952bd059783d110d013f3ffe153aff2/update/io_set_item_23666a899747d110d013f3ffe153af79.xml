@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="Assests Available For Teachers">9425aa099747d110d013f3ffe153af49</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 09:43:39</sys_created_on>
+        <sys_id>23666a899747d110d013f3ffe153af79</sys_id>
+        <sys_name>Assest forms.Assests Available For Teachers</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_update_name>io_set_item_23666a899747d110d013f3ffe153af79</sys_update_name>
+        <variable_set display_value="Assest forms">f4c366859747d110d013f3ffe153afeb</variable_set>
+    </io_set_item>
+</record_update>

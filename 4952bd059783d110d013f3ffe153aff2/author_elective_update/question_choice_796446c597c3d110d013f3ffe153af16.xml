@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Select the Accessories">69a2ce4597c3d110d013f3ffe153afb6</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:15:22</sys_created_on>
+        <sys_id>796446c597c3d110d013f3ffe153af16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cosco</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_update_name>question_choice_796446c597c3d110d013f3ffe153af16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 07:15:22</sys_updated_on>
+        <text>cosco</text>
+        <value>3</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=796446c597c3d110d013f3ffe153af16"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</application>
+        <file_path/>
+        <instance_id>eb6f104bdb89091031363feb6896196a</instance_id>
+        <instance_name>dev121885</instance_name>
+        <name>question_choice_796446c597c3d110d013f3ffe153af16</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="Select the Accessories">69a2ce4597c3d110d013f3ffe153afb6</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-07 07:15:22</sys_created_on><sys_id>796446c597c3d110d013f3ffe153af16</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cosco</sys_name><sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package><sys_policy/><sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope><sys_update_name>question_choice_796446c597c3d110d013f3ffe153af16</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-07 07:15:22</sys_updated_on><text>cosco</text><value>3</value></question_choice><fx_price action="delete_multiple" query="id=796446c597c3d110d013f3ffe153af16"/></record_update>]]></payload>
+        <payload_hash>-2094483489</payload_hash>
+        <record_name>cosco</record_name>
+        <reverted_from/>
+        <source>0552bd059783d110d013f3ffe153aff4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:15:22</sys_created_on>
+        <sys_id>2f744ec597c3d110d013f3ffe153afaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18450f19d830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 07:15:22</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>67744ec5a8c3d1102d2d7564ff3077aa</update_guid>
+        <update_guid_history>67744ec5a8c3d1102d2d7564ff3077aa:-2094483489</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="cosco">9551a6459747d110d013f3ffe153afab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 09:21:22</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>13d839bd2f924bc081ed63f2436e5a40</sys_id>
+        <sys_metadata>796446c597c3d110d013f3ffe153af16</sys_metadata>
+        <sys_name>cosco</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_scope_delete display_value="">02e6c0479b8e46a08159d91115c50400</sys_scope_delete>
+        <sys_update_name>question_choice_796446c597c3d110d013f3ffe153af16</sys_update_name>
+        <sys_update_version display_value="question_choice_796446c597c3d110d013f3ffe153af16">2f744ec597c3d110d013f3ffe153afaa</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

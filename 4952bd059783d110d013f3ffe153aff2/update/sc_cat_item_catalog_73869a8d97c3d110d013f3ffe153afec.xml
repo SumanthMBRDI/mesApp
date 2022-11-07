@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Assests Available For Students">a039c60d97c3d110d013f3ffe153af51</sc_cat_item>
+        <sc_catalog display_value="Assest Centre">8079824997c3d110d013f3ffe153af84</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 08:34:18</sys_created_on>
+        <sys_id>73869a8d97c3d110d013f3ffe153afec</sys_id>
+        <sys_name>Assest Centre.Assests Available</sys_name>
+        <sys_package display_value="MesCollege" source="x_929106_mescolleg">4952bd059783d110d013f3ffe153aff2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MesCollege">4952bd059783d110d013f3ffe153aff2</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_73869a8d97c3d110d013f3ffe153afec</sys_update_name>
+    </sc_cat_item_catalog>
+</record_update>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="55e2fd459783d110d013f3ffe153af3c" label="Teachers" max_length="40" name="x_929106_mescolleg_teachers" type="collection">
+        <element label="Teacher name" max_length="40" name="teacher_name" type="string"/>
+    </element>
+</database>
